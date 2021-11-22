@@ -1,0 +1,3 @@
+literature 70 20 20
+physics 10 10 0
+PE 0 100 0
